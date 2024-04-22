@@ -89,7 +89,7 @@ Seq2Seq modeling is a powerful approach for tasks that involve mapping sequences
 - [TensorFlow Documentation](https://www.tensorflow.org/)
 - [PyTorch Documentation](https://pytorch.org/)
 - [Sequence-to-Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
-- [French-to-English Translation Dataset](https://github.com/manythings/dataset)
+- [Kaggel Reference Code](https://www.kaggle.com/code/akshat0007/machine-translation-english-to-french-rnn-lstm/notebook)
 
 ## Conclusion
 
